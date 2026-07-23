@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MTG-Scanner</string>
+    <string name="camera_view_title">Scansiona la tua carta</string>
+    <string name="scan_button_text">Scansione</string>
+    <string name="discard_button_text">Scarta</string>
+    <string name="spanish_label">Spagnolo</string>
+    <string name="french_label">Francese</string>
+    <string name="german_label">Tedesco</string>
+    <string name="italian_label">Italiano</string>
+    <string name="english_label">Inglese</string>
+    <string name="photo_button_text">Catturare</string>
+    <string name="required_access_camera_message">È richiesto l\'accesso alla fotocamera</string>
+    <string name="invert_lang_text">"Inverti le lingue "</string>
+    <string name="error_scan_message">Errore durante l\'acquisizione del testo della carta</string>
+    <string name="close_button_text">Vicino</string>
+    <string name="image_preview_alt_text">Immagine acquisita</string>
+    <string name="card_ilustration_alt_text">Illustrazione della carta</string>
+    <string name="card_preview_alt_text">Anteprima della carta catturata</string>
+    <string name="scan_new_card_button_text">Scansione nuova carta</string>
+    <string name="error_download_art_text">Errore durante il download dell\'immagine</string>
+</resources>
